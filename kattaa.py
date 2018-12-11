@@ -31,7 +31,7 @@ HANGpic=['''
    __________
    vvvvvvvvvv
    ==========''']
-words={1:'dosa phulki softy biscuit toffee coffee tea chocolate pasta maggi noodles chat kofta puri sabji rasogulla papdi burger samosa pizza '.split(),
+words={1:'dosa golgappe softy biscuit toffee coffee tea chocolate pasta maggi noodles chat kofta puri sabji rasogulla papdi burger samosa pizza '.split(),
        2:'bear lion elephant fox jackal tiger dog cat deer snake giraffe zebra koala goat camel mouse horse donkey bull cow hippopotamus '.split(),
        3:'english maths hindi biology geography history civics computer GK drawing chemistry physics sanskrit'.split(),
        4:'ironMan spiderman thor batman superman flash hulk optimus groot starlord rocket shaktiman superman motu patlu shinchan shiva '.split(),
